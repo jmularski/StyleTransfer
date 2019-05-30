@@ -1,9 +1,12 @@
 import React from 'react';
 import HorizontalStepper from './Stepper'
+import Container from '@material-ui/core/Container';
 
 function App() {
   return (
-    <HorizontalStepper />
+    <Container maxWidth="sm" >
+      <HorizontalStepper/>
+    </Container>
   );
 }
 
