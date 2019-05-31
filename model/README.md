@@ -1,4 +1,4 @@
-#Model part
+# Model part
 
 Build with Tensorflow with help of [this tutorial](https://www.tensorflow.org/alpha/tutorials/generative/style_transfer) and [this paper](https://arxiv.org/abs/1508.06576).
 
